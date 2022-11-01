@@ -1,0 +1,4 @@
+docker build -t pynorm .
+
+docker run pynorm
+
